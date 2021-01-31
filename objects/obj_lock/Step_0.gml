@@ -4,5 +4,5 @@
 sprite_index = keypuzzle;
 
 if(global.key_n = keypuzzle) {
-	sprite_index = 	
+	instance_create_depth(x,y,obj_)
 }

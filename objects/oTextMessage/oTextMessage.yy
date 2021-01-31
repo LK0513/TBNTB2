@@ -1,7 +1,7 @@
 {
   "spriteId": null,
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -17,17 +17,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_KeyPressE","path":"objects/obj_KeyPressE/obj_KeyPressE.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Main Room",
-    "path": "folders/Objects/Main Room.yy",
+    "name": "Task1",
+    "path": "folders/Objects/Task1.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_KeyPressE",
+  "name": "oTextMessage",
   "tags": [],
   "resourceType": "GMObject",
 }

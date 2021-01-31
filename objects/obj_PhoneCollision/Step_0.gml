@@ -1,9 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-timer -= 1;
 
-if (timer == 0){
-	//instance_destroy(obj_PressZ);
-	
+if(place_meeting(x,y,obj_AAC))
+{
+	obj_PressTab.visible = false;
+
+    obj_PressZ.visible = true;
 }
