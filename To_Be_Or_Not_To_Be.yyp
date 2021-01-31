@@ -103,11 +103,8 @@
     {"roomId":{"name":"Phone","path":"rooms/Phone/Phone.yy",},},
     {"roomId":{"name":"End_screen","path":"rooms/End_screen/End_screen.yy",},},
     {"roomId":{"name":"diary_note","path":"rooms/diary_note/diary_note.yy",},},
-<<<<<<< HEAD
     {"roomId":{"name":"PhoneScreen","path":"rooms/PhoneScreen/PhoneScreen.yy",},},
     {"roomId":{"name":"Task1_End2","path":"rooms/Task1_End2/Task1_End2.yy",},},
-=======
->>>>>>> master
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
