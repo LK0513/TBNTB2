@@ -1,0 +1,1 @@
+text = "The 3 phones belong to three owners, \nPatrick Tanner, Cameron Garcia, and Elise \nRamsey. Only one phone is telling the truth.\n\nLeft:  The Middle one is Patrick's phone! \nMiddle: I'm not Cameron's phone! \nRight: Elise's phone? It's on the left";
