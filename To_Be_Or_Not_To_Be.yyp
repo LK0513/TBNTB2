@@ -67,7 +67,7 @@
     {"id":{"name":"obj_P2_OnBoard","path":"objects/obj_P2_OnBoard/obj_P2_OnBoard.yy",},"order":10,},
     {"id":{"name":"obj_Tel","path":"objects/obj_Tel/obj_Tel.yy",},"order":1,},
     {"id":{"name":"sMoralBar","path":"sprites/sMoralBar/sMoralBar.yy",},"order":2,},
-    {"id":{"name":"obj_textInstruction","path":"objects/obj_textInstruction/obj_textInstruction.yy",},"order":20,},
+    {"id":{"name":"obj_TextInstruction","path":"objects/obj_TextInstruction/obj_TextInstruction.yy",},"order":20,},
     {"id":{"name":"oLogicGame","path":"objects/oLogicGame/oLogicGame.yy",},"order":15,},
     {"id":{"name":"spr_Plant","path":"sprites/spr_Plant/spr_Plant.yy",},"order":5,},
     {"id":{"name":"Main_Room","path":"rooms/Main_Room/Main_Room.yy",},"order":4,},
@@ -138,6 +138,8 @@
     {"roomId":{"name":"JasonW","path":"rooms/JasonW/JasonW.yy",},},
     {"roomId":{"name":"diary_note","path":"rooms/diary_note/diary_note.yy",},},
     {"roomId":{"name":"Task1_End2","path":"rooms/Task1_End2/Task1_End2.yy",},},
+    {"roomId":{"name":"Main_Room2","path":"rooms/Main_Room2/Main_Room2.yy",},},
+    {"roomId":{"name":"TextMessageScreen","path":"rooms/TextMessageScreen/TextMessageScreen.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
