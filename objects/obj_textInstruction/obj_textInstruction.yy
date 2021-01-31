@@ -17,15 +17,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_TextInstruction","path":"objects/obj_TextInstruction/obj_TextInstruction.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Main Room",
-    "path": "folders/Objects/Main Room.yy",
+    "name": "Task1",
+    "path": "folders/Objects/Task1.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_textInstruction",
+  "name": "obj_TextInstruction",
   "tags": [],
   "resourceType": "GMObject",
 }
