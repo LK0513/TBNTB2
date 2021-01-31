@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_save",
-    "path": "sprites/spr_save/spr_save.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": false,
   "spriteMaskId": null,
@@ -21,16 +18,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_PaperCollision","path":"objects/obj_PaperCollision/obj_PaperCollision.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_PressTab","path":"objects/obj_PressTab/obj_PressTab.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Main Room",
+    "path": "folders/Objects/Main Room.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_PaperCollision",
+  "name": "obj_PressTab",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -27,7 +27,7 @@ if(keyboard_check(ord("A")))
 if(keyboard_check(vk_nokey)&&sprite_index=spr_left_walk)
 {
 	sprite_index=spr_AAC;
-	image_index = 1;
+	image_index = 3;
 }
 
 
@@ -53,7 +53,7 @@ if(keyboard_check(ord("D")))
 if(keyboard_check(vk_nokey)&&sprite_index=spr_right_walk)
 {
 	sprite_index=spr_AAC;
-	image_index = 3;
+	image_index = 1;
 }
 
 
