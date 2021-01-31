@@ -117,6 +117,7 @@
     {"id":{"name":"oLogicGame","path":"objects/oLogicGame/oLogicGame.yy",},"order":15,},
     {"id":{"name":"spr_lock","path":"sprites/spr_lock/spr_lock.yy",},"order":6,},
     {"id":{"name":"spr_Plant","path":"sprites/spr_Plant/spr_Plant.yy",},"order":5,},
+    {"id":{"name":"snd_bgm","path":"sounds/snd_bgm/snd_bgm.yy",},"order":0,},
     {"id":{"name":"Task1_EndChoose","path":"rooms/Task1_EndChoose/Task1_EndChoose.yy",},"order":18,},
     {"id":{"name":"Main_Room","path":"rooms/Main_Room/Main_Room.yy",},"order":4,},
     {"id":{"name":"sTel","path":"sprites/sTel/sTel.yy",},"order":1,},
