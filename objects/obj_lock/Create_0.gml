@@ -5,4 +5,6 @@ randomize();
 keypuzzle = irandom(3);
 
 
-global.key_n = 4;
+global.key_n = -1;
+
+global.win = false;
