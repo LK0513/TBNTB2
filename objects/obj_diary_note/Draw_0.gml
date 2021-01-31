@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-instance_destroy(obj_diary);
-
-room_goto(diary_note);
+draw_sprite_ext(spr_save,0,0,0,room_width,room_height,0,c_black,alpha);

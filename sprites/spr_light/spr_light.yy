@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"d1be2fbd-14c8-4d9f-9c8e-c4d19e08b66f","path":"sprites/spr_light/spr_light.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d1be2fbd-14c8-4d9f-9c8e-c4d19e08b66f","path":"sprites/spr_light/spr_light.yy",},"LayerId":{"name":"ae1591a5-7605-425c-b2eb-09d37a0c3543","path":"sprites/spr_light/spr_light.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"d1be2fbd-14c8-4d9f-9c8e-c4d19e08b66f","path":"sprites/spr_light/spr_light.yy",},"LayerId":{"name":"430e4e9b-25c1-4f1d-ad17-56f530345ad5","path":"sprites/spr_light/spr_light.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"d1be2fbd-14c8-4d9f-9c8e-c4d19e08b66f","path":"sprites/spr_light/spr_light.yy",},"LayerId":{"name":"ae1591a5-7605-425c-b2eb-09d37a0c3543","path":"sprites/spr_light/spr_light.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},"resourceVersion":"1.0","name":"d1be2fbd-14c8-4d9f-9c8e-c4d19e08b66f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -67,7 +67,7 @@
   },
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default (2)","resourceVersion":"1.0","name":"430e4e9b-25c1-4f1d-ad17-56f530345ad5","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ae1591a5-7605-425c-b2eb-09d37a0c3543","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":50.0,"displayName":"default","resourceVersion":"1.0","name":"ae1591a5-7605-425c-b2eb-09d37a0c3543","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Jason Williams",
