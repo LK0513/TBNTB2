@@ -7,6 +7,7 @@
     {"id":{"name":"obj_PressTab","path":"objects/obj_PressTab/obj_PressTab.yy",},"order":17,},
     {"id":{"name":"spr_inside_diary","path":"sprites/spr_inside_diary/spr_inside_diary.yy",},"order":6,},
     {"id":{"name":"spr_suitcase_open","path":"sprites/spr_suitcase_open/spr_suitcase_open.yy",},"order":16,},
+    {"id":{"name":"final_judgment","path":"sprites/final_judgment/final_judgment.yy",},"order":3,},
     {"id":{"name":"P1Form","path":"sprites/P1Form/P1Form.yy",},"order":0,},
     {"id":{"name":"Main_Room3","path":"rooms/Main_Room3/Main_Room3.yy",},"order":15,},
     {"id":{"name":"spr_suitcase","path":"sprites/spr_suitcase/spr_suitcase.yy",},"order":15,},
@@ -28,7 +29,6 @@
     {"id":{"name":"obj_task2_instru","path":"objects/obj_task2_instru/obj_task2_instru.yy",},"order":13,},
     {"id":{"name":"obj_Desk","path":"objects/obj_Desk/obj_Desk.yy",},"order":1,},
     {"id":{"name":"TextMessageScreen","path":"rooms/TextMessageScreen/TextMessageScreen.yy",},"order":10,},
-    {"id":{"name":"spr_fail","path":"sprites/spr_fail/spr_fail.yy",},"order":10,},
     {"id":{"name":"obj_AAC","path":"objects/obj_AAC/obj_AAC.yy",},"order":3,},
     {"id":{"name":"fon_big","path":"fonts/fon_big/fon_big.yy",},"order":3,},
     {"id":{"name":"obj_P3Form","path":"objects/obj_P3Form/obj_P3Form.yy",},"order":2,},
@@ -167,21 +167,32 @@
     "children": [],
   },
   "RoomOrderNodes": [
+<<<<<<< HEAD
     {"roomId":{"name":"Main_Room2","path":"rooms/Main_Room2/Main_Room2.yy",},},
     {"roomId":{"name":"FenyaR1","path":"rooms/FenyaR1/FenyaR1.yy",},},
     {"roomId":{"name":"FenyaR2","path":"rooms/FenyaR2/FenyaR2.yy",},},
     {"roomId":{"name":"FenyaR3","path":"rooms/FenyaR3/FenyaR3.yy",},},
+=======
+    {"roomId":{"name":"Main_Room_final","path":"rooms/Main_Room_final/Main_Room_final.yy",},},
+    {"roomId":{"name":"Choice_DarkRoom","path":"rooms/Choice_DarkRoom/Choice_DarkRoom.yy",},},
+>>>>>>> master
     {"roomId":{"name":"Start_screen","path":"rooms/Start_screen/Start_screen.yy",},},
     {"roomId":{"name":"PhoneScreen","path":"rooms/PhoneScreen/PhoneScreen.yy",},},
     {"roomId":{"name":"Email","path":"rooms/Email/Email.yy",},},
     {"roomId":{"name":"Main_Room","path":"rooms/Main_Room/Main_Room.yy",},},
     {"roomId":{"name":"TextMessageScreen","path":"rooms/TextMessageScreen/TextMessageScreen.yy",},},
+<<<<<<< HEAD
     {"roomId":{"name":"Choice_DarkRoom","path":"rooms/Choice_DarkRoom/Choice_DarkRoom.yy",},},
+=======
+    {"roomId":{"name":"Main_Room2","path":"rooms/Main_Room2/Main_Room2.yy",},},
+    {"roomId":{"name":"FenyaR1","path":"rooms/FenyaR1/FenyaR1.yy",},},
+    {"roomId":{"name":"FenyaR2","path":"rooms/FenyaR2/FenyaR2.yy",},},
+    {"roomId":{"name":"FenyaR3","path":"rooms/FenyaR3/FenyaR3.yy",},},
+>>>>>>> master
     {"roomId":{"name":"Main_Room3","path":"rooms/Main_Room3/Main_Room3.yy",},},
-    {"roomId":{"name":"Phone","path":"rooms/Phone/Phone.yy",},},
     {"roomId":{"name":"JasonW","path":"rooms/JasonW/JasonW.yy",},},
     {"roomId":{"name":"diary_note","path":"rooms/diary_note/diary_note.yy",},},
-    {"roomId":{"name":"Main_Room_final","path":"rooms/Main_Room_final/Main_Room_final.yy",},},
+    {"roomId":{"name":"Phone","path":"rooms/Phone/Phone.yy",},},
     {"roomId":{"name":"Task1_End2","path":"rooms/Task1_End2/Task1_End2.yy",},},
     {"roomId":{"name":"End_screen","path":"rooms/End_screen/End_screen.yy",},},
   ],
