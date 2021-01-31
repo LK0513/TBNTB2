@@ -7,6 +7,7 @@
     {"id":{"name":"P1Form","path":"sprites/P1Form/P1Form.yy",},"order":0,},
     {"id":{"name":"spr_InventoryTab","path":"sprites/spr_InventoryTab/spr_InventoryTab.yy",},"order":9,},
     {"id":{"name":"spr_AAC","path":"sprites/spr_AAC/spr_AAC.yy",},"order":0,},
+    {"id":{"name":"sButton","path":"sprites/sButton/sButton.yy",},"order":0,},
     {"id":{"name":"obj_Task1_Text","path":"objects/obj_Task1_Text/obj_Task1_Text.yy",},"order":5,},
     {"id":{"name":"obj_Sofa","path":"objects/obj_Sofa/obj_Sofa.yy",},"order":3,},
     {"id":{"name":"obj_prolight","path":"objects/obj_prolight/obj_prolight.yy",},"order":1,},
@@ -119,6 +120,7 @@
     {"folderPath":"folders/Objects/Main Room.yy","order":4,"resourceVersion":"1.0","name":"Main Room","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Forms.yy","order":8,"resourceVersion":"1.0","name":"Forms","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Forms.yy","order":5,"resourceVersion":"1.0","name":"Forms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Task1.yy","order":11,"resourceVersion":"1.0","name":"Task1","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
