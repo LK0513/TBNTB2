@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "To_Be_Or_Not_To_Be",
-    "path": "To_Be_Or_Not_To_Be.yyp",
+    "name": "Choice",
+    "path": "folders/Objects/Choice.yy",
   },
   "resourceVersion": "1.0",
   "name": "oChoice",
