@@ -3,7 +3,7 @@
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
-  "preMultiplyAlpha": false,
+  "preMultiplyAlpha": true,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,

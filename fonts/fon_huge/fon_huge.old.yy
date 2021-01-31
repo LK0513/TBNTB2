@@ -2141,7 +2141,7 @@
     "path": "folders/Fonts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "fLogicGame",
+  "name": "fon_huge",
   "tags": [],
   "resourceType": "GMFont",
 }
