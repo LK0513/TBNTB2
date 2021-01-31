@@ -3,15 +3,15 @@
 
 if(!fadeout)
 {
-	alpha = max(alpha - 0.006,0);
+	alpha = max(alpha - 0.01,0);
 }
 
 
-if(keyboard_check_released(vk_space)&& frames > 13*room_speed)
+if(keyboard_check(vk_space))
 {
-	alpha = min(alpha + 0.006,1);
+	alpha = min(alpha + 0.01,1);
   if(alpha = 1)
   {
   room_goto(Main_Room);
-   }
+  }
 }
