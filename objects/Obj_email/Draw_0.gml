@@ -10,7 +10,7 @@ draw_set_font(fon_email);
 draw_set_color(c_black);
 
 
-draw_text(260, room_height/2, "Hey mate, how's your little vocation?"
+draw_text(290, room_height/2, "Hey mate, how's your little vocation?"
 +"\n"
 +"\nWell, whatever happened, time to get to work again!"
 +"\nBeing a nice friend as I am, I left three lost property reports on your desk."
