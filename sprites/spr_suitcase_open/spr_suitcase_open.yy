@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0a139762-98ba-4e5e-9ac5-a08c75f9507a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "To_Be_Or_Not_To_Be",
-    "path": "To_Be_Or_Not_To_Be.yyp",
+    "name": "Main_Room",
+    "path": "folders/Sprites/Main_Room.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_suitcase_open",

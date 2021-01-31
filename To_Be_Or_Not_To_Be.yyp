@@ -138,8 +138,6 @@
     {"roomId":{"name":"JasonW","path":"rooms/JasonW/JasonW.yy",},},
     {"roomId":{"name":"diary_note","path":"rooms/diary_note/diary_note.yy",},},
     {"roomId":{"name":"Task1_End2","path":"rooms/Task1_End2/Task1_End2.yy",},},
-    {"roomId":{"name":"Main_Room2","path":"rooms/Main_Room2/Main_Room2.yy",},},
-    {"roomId":{"name":"TextMessageScreen","path":"rooms/TextMessageScreen/TextMessageScreen.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
