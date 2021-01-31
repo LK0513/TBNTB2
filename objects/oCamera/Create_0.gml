@@ -30,4 +30,3 @@ default_zoom_height = camera_get_view_height(view_camera[0]);
 
 
 
-
