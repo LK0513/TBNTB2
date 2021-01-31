@@ -1,4 +1,4 @@
-/// @description Insert description here
+spr/// @description Insert description here
 // You can write your code in this editor
 but1 = draw_circle_color(x,y,5,c_maroon, c_maroon, false);
 but2 = draw_circle_color(x+30, y, 5, c_navy, c_navy, false);
