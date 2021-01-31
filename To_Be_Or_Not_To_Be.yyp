@@ -68,7 +68,6 @@
     {"id":{"name":"spr_right_walk","path":"sprites/spr_right_walk/spr_right_walk.yy",},"order":3,},
     {"id":{"name":"obj_Inventory","path":"objects/obj_Inventory/obj_Inventory.yy",},"order":6,},
     {"id":{"name":"obj_PC","path":"objects/obj_PC/obj_PC.yy",},"order":8,},
-    {"id":{"name":"Spr233","path":"sprites/Spr233/Spr233.yy",},"order":11,},
     {"id":{"name":"Email","path":"rooms/Email/Email.yy",},"order":0,},
   ],
   "Options": [
