@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 0,
-  "bbox_bottom": 63,
+  "bbox_left": 11,
+  "bbox_right": 49,
+  "bbox_top": 7,
+  "bbox_bottom": 47,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7ef21f76-daa5-4500-9a96-f660f6aded28","path":"sprites/sButton/sButton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7ef21f76-daa5-4500-9a96-f660f6aded28","path":"sprites/sButton/sButton.yy",},"LayerId":{"name":"ddb4b272-0d54-47b6-9bdd-4bc9259035d6","path":"sprites/sButton/sButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sButton","path":"sprites/sButton/sButton.yy",},"resourceVersion":"1.0","name":"7ef21f76-daa5-4500-9a96-f660f6aded28","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8dff6ee8-2929-45e2-be47-6207d1711940","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8dff6ee8-2929-45e2-be47-6207d1711940","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},"LayerId":{"name":"87b71131-80d5-48e1-b0d3-926bb13ac239","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Cathyyyyyyyy","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},"resourceVersion":"1.0","name":"8dff6ee8-2929-45e2-be47-6207d1711940","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sButton","path":"sprites/sButton/sButton.yy",},
+    "spriteId": {"name":"Cathyyyyyyyy","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a006351b-7509-4d9c-b1dd-b49d0336dea1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7ef21f76-daa5-4500-9a96-f660f6aded28","path":"sprites/sButton/sButton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"86ade695-0840-452c-ae0d-7aa404c8b351","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8dff6ee8-2929-45e2-be47-6207d1711940","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sButton","path":"sprites/sButton/sButton.yy",},
+    "parent": {"name":"Cathyyyyyyyy","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},
     "resourceVersion": "1.3",
-    "name": "sButton",
+    "name": "Cathyyyyyyyy",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ddb4b272-0d54-47b6-9bdd-4bc9259035d6","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"87b71131-80d5-48e1-b0d3-926bb13ac239","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Task1",
-    "path": "folders/Sprites/Task1.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sButton",
+  "name": "Cathyyyyyyyy",
   "tags": [],
   "resourceType": "GMSprite",
 }
