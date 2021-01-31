@@ -15,6 +15,15 @@ if(keyboard_check_pressed(ord("X")))
 	zoom_level = 1;
 }
 
+if(oMoralBar.hp_current == 25 || oMoralBar.hp_current == 75)
+{
+	zoom_level = 1;
+	oChoice.visible = false;
+	oQuestion.visible = false;
+	objTelZoom.visible = false;
+	oAfter.visible = true;
+}
+
 //Get current size
 var view_w = camera_get_view_width(view_camera[0]);
 var view_h = camera_get_view_height(view_camera[0]);
@@ -31,7 +40,7 @@ camera_set_view_size(view_camera[0], new_w, new_h);
 
 
 var shift_x = camera_get_view_x(view_camera[0]) - (new_w - view_w) * 0.5;
-var shift_y = camera_get_view_y(view_camera[0]) - (new_h - view_h) * 0.7;
+var shift_y = camera_get_view_y(view_camera[0]) - (new_h - view_h) * 0.65;
 
 //Update the view position
 camera_set_view_pos(view_camera[0],shift_x, shift_y);

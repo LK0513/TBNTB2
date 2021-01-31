@@ -3,13 +3,3 @@
 
 draw_self();
 
-if(drawInstruc == true)
-{
-	draw_set_font(fon_huge);
-	draw_set_color(c_white);
-	draw_set_halign(fa_center);
-
-	draw_text_transformed(x,y, "Press Z to zoom in", 0.2,0.2, 0);
-	
-}
-
