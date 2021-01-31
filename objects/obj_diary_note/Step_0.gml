@@ -18,5 +18,5 @@ if(keyboard_check_released(vk_escape))
 
 if(alpha = 1 && fadeout=1)
 {
-	room_goto(Main_Room3);
+	room_goto(Main_Room_final);
 }

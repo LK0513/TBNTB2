@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "JasonW (Task 3)",
-    "path": "folders/Objects/JasonW (Task 3).yy",
+    "name": "Jason W",
+    "path": "folders/Objects/Jason W.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_save",
