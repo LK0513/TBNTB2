@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_title",
-  "duration": 0.0,
+  "soundFile": "snd_title.mp3",
+  "duration": 4.397,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
