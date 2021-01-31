@@ -1,8 +1,8 @@
-spr/// @description Insert description here
+/// @description Insert description here
 // You can write your code in this editor
-but1 = draw_circle_color(x,y,5,c_maroon, c_maroon, false);
-but2 = draw_circle_color(x+30, y, 5, c_navy, c_navy, false);
-but3 = draw_circle_color(x+60, y, 5, c_olive, c_olive, false);
+draw_circle_color(x,y,5,c_maroon, c_maroon, false);
+draw_circle_color(x+30, y, 5, c_navy, c_navy, false);
+draw_circle_color(x+60, y, 5, c_olive, c_olive, false);
 
 if(keyboard_check_pressed(ord("1")))
 {
