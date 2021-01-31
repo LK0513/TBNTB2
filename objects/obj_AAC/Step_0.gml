@@ -16,6 +16,8 @@ if(keyboard_check(vk_nokey)&&sprite_index=spr_back_walk)
 	sprite_index=spr_AAC;
 	image_index = 2;
 }
+
+
 if(keyboard_check(ord("A")))
 {
 	hspeed = -move_speed;
@@ -25,8 +27,10 @@ if(keyboard_check(ord("A")))
 if(keyboard_check(vk_nokey)&&sprite_index=spr_left_walk)
 {
 	sprite_index=spr_AAC;
-	image_index = 1;
+	image_index = 3;
 }
+
+
 if(keyboard_check(ord("S")))
 {
 	vspeed = move_speed;
@@ -38,6 +42,8 @@ if(keyboard_check(vk_nokey)&&sprite_index=spr_front_walk)
 	sprite_index=spr_AAC;
 	image_index = 0;
 }
+
+
 if(keyboard_check(ord("D")))
 {
 	hspeed = move_speed;
@@ -47,7 +53,7 @@ if(keyboard_check(ord("D")))
 if(keyboard_check(vk_nokey)&&sprite_index=spr_right_walk)
 {
 	sprite_index=spr_AAC;
-	image_index = 3;
+	image_index = 1;
 }
 
 
