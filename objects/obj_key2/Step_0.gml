@@ -7,5 +7,6 @@ if(position_meeting(mouse_x, mouse_y, id)){
 		global.key_n = 2;
 	}
 }
-else
+else{
     image_index = 0;
+}

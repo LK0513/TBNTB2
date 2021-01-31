@@ -22,6 +22,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_PC","path":"objects/obj_PC/obj_PC.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.133531153,"scaleY":0.133531153,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":749.6201,"y":425.0831,"resourceVersion":"1.0","name":"inst_12F6FCA6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Chair","path":"objects/obj_Chair/obj_Chair.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.270919859,"scaleY":0.270919859,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":991.6201,"y":615.0,"resourceVersion":"1.0","name":"inst_9E56948","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_fade","path":"objects/obj_fade/obj_fade.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":224.0,"resourceVersion":"1.0","name":"inst_39E16ED6","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_bgm","path":"objects/obj_bgm/obj_bgm.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":416.0,"resourceVersion":"1.0","name":"inst_3F6F0A67","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"UI","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_PressTab","path":"objects/obj_PressTab/obj_PressTab.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":595.0,"y":60.0,"resourceVersion":"1.0","name":"inst_33CE77C0","tags":[],"resourceType":"GMRInstance",},
@@ -105,6 +106,7 @@
     {"name":"inst_12F6FCA6","path":"rooms/Main_Room/Main_Room.yy",},
     {"name":"inst_9E56948","path":"rooms/Main_Room/Main_Room.yy",},
     {"name":"inst_39E16ED6","path":"rooms/Main_Room/Main_Room.yy",},
+    {"name":"inst_3F6F0A67","path":"rooms/Main_Room/Main_Room.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
