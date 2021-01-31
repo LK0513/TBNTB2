@@ -13,7 +13,6 @@ if(global.key_n!=-1){
 if(count = 1*room_speed){
 		count = 0;
 		global.key_n = -1;
-		show_debug_message("lol");
 	}
 
 if(global.win){
