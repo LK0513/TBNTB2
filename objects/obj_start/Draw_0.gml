@@ -6,5 +6,5 @@ draw_set_font(fon_start);
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 
-draw_set_color(c_gray);
+draw_set_color(c_grey);
 draw_text(room_width/2,room_height-50,"Press space to start");
