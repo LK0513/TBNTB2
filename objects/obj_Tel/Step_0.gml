@@ -9,5 +9,4 @@ if(obj_AAC.y<=y){
 	depth = 0;
 }else{
 	depth = 100;	
-	show_debug_message("?");
 }
