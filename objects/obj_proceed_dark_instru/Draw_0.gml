@@ -7,4 +7,4 @@ draw_set_valign(fa_center);
 
 draw_set_color(c_black);
 
-draw_text(x,y, "go and investigate suitcase");
+draw_text(x,y, "Find the right key");
