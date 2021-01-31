@@ -27,6 +27,7 @@
     {"id":{"name":"spr_left_walk","path":"sprites/spr_left_walk/spr_left_walk.yy",},"order":4,},
     {"id":{"name":"obj_Desk","path":"objects/obj_Desk/obj_Desk.yy",},"order":1,},
     {"id":{"name":"TextMessageScreen","path":"rooms/TextMessageScreen/TextMessageScreen.yy",},"order":10,},
+    {"id":{"name":"spr_fail","path":"sprites/spr_fail/spr_fail.yy",},"order":10,},
     {"id":{"name":"obj_AAC","path":"objects/obj_AAC/obj_AAC.yy",},"order":3,},
     {"id":{"name":"fon_big","path":"fonts/fon_big/fon_big.yy",},"order":3,},
     {"id":{"name":"obj_P3Form","path":"objects/obj_P3Form/obj_P3Form.yy",},"order":2,},
