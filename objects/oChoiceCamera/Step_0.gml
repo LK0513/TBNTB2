@@ -15,7 +15,8 @@ if(keyboard_check_pressed(ord("X")))
 	zoom_level = 1;
 }
 
-if(oMoralBar.hp_current == 25 || oMoralBar.hp_current == 75)
+
+if(global.hp_current == 40 || global.hp_current == 60)
 {
 	zoom_level = 1;
 	oChoice.visible = false;
@@ -23,6 +24,7 @@ if(oMoralBar.hp_current == 25 || oMoralBar.hp_current == 75)
 	objTelZoom.visible = false;
 	oAfter.visible = true;
 }
+
 
 //Get current size
 var view_w = camera_get_view_width(view_camera[0]);

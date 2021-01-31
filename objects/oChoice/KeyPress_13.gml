@@ -3,9 +3,9 @@
 switch(menu_index)
 {
 	case 0:
-		oMoralBar.hp_next +=25;
+		global.hp_next +=10;
 		break;
 	case 1:
-		oMoralBar.hp_next -=25;
+		global.hp_next -=10;
 		break;
 }

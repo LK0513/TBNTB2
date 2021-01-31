@@ -12,5 +12,5 @@ else
 
 if(alpha = 1 && fadeout=1)
 {
-   room_goto_next()
+   room_goto_next();
 }
