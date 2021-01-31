@@ -7,7 +7,7 @@ if(!fadeout)
 }
 
 
-if(keyboard_check(vk_space))
+if(keyboard_check_pressed(vk_space))
 {
 	alpha = min(alpha + 0.01,1);
   if(alpha = 1)
