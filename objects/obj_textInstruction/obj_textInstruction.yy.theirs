@@ -21,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Task1",
-    "path": "folders/Objects/Task1.yy",
+    "name": "Main Room",
+    "path": "folders/Objects/Main Room.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oTextMessage",
+  "name": "obj_textInstruction",
   "tags": [],
   "resourceType": "GMObject",
 }

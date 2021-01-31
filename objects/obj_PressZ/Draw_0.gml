@@ -3,4 +3,4 @@
 draw_set_font(fLogicGame);
 draw_set_color(c_black);
 
-draw_text_transformed(x,y, "Press Z to Zoom into the table \n X to zoom out", 0.25,0.25, 0);
+draw_text(x,y, "Press Z to Zoom into the table \n X to zoom out");
