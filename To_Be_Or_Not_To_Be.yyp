@@ -3,6 +3,7 @@
     {"id":{"name":"obj_PhoneWhite","path":"objects/obj_PhoneWhite/obj_PhoneWhite.yy",},"order":14,},
     {"id":{"name":"spr_spikes","path":"sprites/spr_spikes/spr_spikes.yy",},"order":7,},
     {"id":{"name":"spr_email","path":"sprites/spr_email/spr_email.yy",},"order":1,},
+    {"id":{"name":"Cathyyyyyyyy","path":"sprites/Cathyyyyyyyy/Cathyyyyyyyy.yy",},"order":11,},
     {"id":{"name":"spr_inside_diary","path":"sprites/spr_inside_diary/spr_inside_diary.yy",},"order":6,},
     {"id":{"name":"P1Form","path":"sprites/P1Form/P1Form.yy",},"order":0,},
     {"id":{"name":"spr_InventoryTab","path":"sprites/spr_InventoryTab/spr_InventoryTab.yy",},"order":9,},
@@ -68,7 +69,6 @@
     {"id":{"name":"spr_right_walk","path":"sprites/spr_right_walk/spr_right_walk.yy",},"order":3,},
     {"id":{"name":"obj_Inventory","path":"objects/obj_Inventory/obj_Inventory.yy",},"order":6,},
     {"id":{"name":"obj_PC","path":"objects/obj_PC/obj_PC.yy",},"order":8,},
-    {"id":{"name":"Spr233","path":"sprites/Spr233/Spr233.yy",},"order":11,},
     {"id":{"name":"Email","path":"rooms/Email/Email.yy",},"order":0,},
   ],
   "Options": [
@@ -91,12 +91,12 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Start_screen","path":"rooms/Start_screen/Start_screen.yy",},},
-    {"roomId":{"name":"Email","path":"rooms/Email/Email.yy",},},
     {"roomId":{"name":"Main_Room","path":"rooms/Main_Room/Main_Room.yy",},},
-    {"roomId":{"name":"Phone","path":"rooms/Phone/Phone.yy",},},
+    {"roomId":{"name":"Start_screen","path":"rooms/Start_screen/Start_screen.yy",},},
     {"roomId":{"name":"JasonW","path":"rooms/JasonW/JasonW.yy",},},
+    {"roomId":{"name":"Email","path":"rooms/Email/Email.yy",},},
     {"roomId":{"name":"End_screen","path":"rooms/End_screen/End_screen.yy",},},
+    {"roomId":{"name":"Phone","path":"rooms/Phone/Phone.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
