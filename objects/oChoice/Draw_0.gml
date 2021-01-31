@@ -7,7 +7,7 @@ if(oChoiceCamera.zoom_level<1)
 	var i =0;
 	repeat(buttons)
 	{
-		draw_set_font(fLogicGame);
+		draw_set_font(fon_huge);
 		draw_set_color(c_silver);
 		draw_set_halign(fa_center);
 	

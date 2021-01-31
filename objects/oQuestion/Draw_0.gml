@@ -1,5 +1,5 @@
 
-draw_set_font(fLogicGame);
+draw_set_font(fon_huge);
 draw_set_color(c_white);
 draw_set_halign(fa_center);
 
